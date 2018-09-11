@@ -1,4 +1,4 @@
-package com.dutikov.jgsmencoding;
+package ru.jtexting.gsmencoding;
 
 import java.nio.ByteBuffer;
 import java.nio.CharBuffer;

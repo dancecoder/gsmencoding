@@ -1,4 +1,4 @@
-package com.dutikov.jgsmencoding;
+package ru.jtexting.gsmencoding;
 
 import org.junit.Assert;
 import org.junit.Test;

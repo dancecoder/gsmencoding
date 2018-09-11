@@ -1,4 +1,4 @@
-package com.dutikov.jgsmencoding;
+package ru.jtexting.gsmencoding;
 
 import java.io.ByteArrayOutputStream;
 import java.nio.BufferOverflowException;
